@@ -1,0 +1,9 @@
+site_name: MkLorum
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
+extra_css:
+    - css/version-select.css
+extra_javascript:
+    - js/version-select.js
